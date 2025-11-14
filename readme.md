@@ -1,13 +1,9 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/7gplMR5b)
-# Examen Parcial. Django: Vistas, Templates y Modelos
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/XiRRl-uA)
+# Examen Parcial 2. Django: Vistas, Templates y Modelos
 
 En el presente examen se evaluarán los conocimientos de los estudiantes sobre el desarrollo de interfaces web utilizando el patrón Modelo-Vista-Controlador (MVC) con Django, HTML y CSS.
 
 Para el examen se propone crear un catálogo de pelíclas que se mostrarán en una vista Maestro - Detalle.
-
-## Datos del estudiante
-Nombre: Jonathan Mateo Tello Álvarez
-Ing. Software UISEK Tercer Semestre
 
 ## Objetivos 
 
